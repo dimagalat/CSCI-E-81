@@ -1,3 +1,5 @@
 .ipynb_checkpoints*
 hw/
 __pycache__/
+slides/*
+test/*
